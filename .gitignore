@@ -3,6 +3,9 @@ node_modules
 .DS_Store
 android/build/
 
+# Intellij
+*.iml
+
 # Xcode
 #
 build/
